@@ -1,4 +1,4 @@
 creation_rules:
-  - kms: projects/komal-443509/locations/global/keyRings/sops-keyring/cryptoKeys/sops-key
+  - kms: projects/komal-443509/locations/global/keyRings/sops-keyring/cryptoKeys/new-key
     encrypted_regex: '^(.*)$'
     path_regex: '.*\.yaml$'
